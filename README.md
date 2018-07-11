@@ -26,5 +26,8 @@ Shape - Row Col pair
 Linear Regression
 W(y) = Wx + b;
 cost = mean(square(W(x) - real value));
-Minimize cost = optimize cost
+
+# Minimizing cost
+- Gradient descent
+
 ```
